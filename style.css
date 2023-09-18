@@ -1,3 +1,65 @@
 h1 {
   text-align: center;
+  background-color: #750706;
 }
+body  {
+    background-color: #750706;
+    width: 100%;
+    color: #FFFFFF;
+  }
+gr.blocks {
+  background-color: #750706;
+  width: 100%;
+  color: #FFFFFF;
+}
+h3 {
+  color: #FFFFF;
+  text-align: center;
+  font-family: verdana;
+  font-size: 24px;
+  border: 1px solid #FFFFFF;
+  border-radius: 10px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 14px;
+}
+
+label {
+  font-family: verdana;
+  color: #000000;
+  font-weight: 700;
+  font-size: 14px;
+  border: 1px solid #000000;  
+} 
+
+gr.Textbox {
+  font-family: verdana;
+  background-color: #279700;
+  color: #000000;
+  font-weight: 700;
+  font-size: 14px;
+  border: 1px solid #FFFFFF;
+  border-radius: 6px;
+} 
+
+gr.Botton {
+  font-family: verdana;
+  background-color: #279700;
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 14px;
+  border: 1px solid #000000;
+  border-radius: 6px;
+} 
+
+a a:active a.hover
+ {
+  font-family: verdana;
+  color: #572430;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 14px;
+  
+} 
