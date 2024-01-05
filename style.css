@@ -3,12 +3,12 @@ h1 {
   background-color: #750706;
 }
 body  {
-    background-color: #750706;
+    background-color: #191628;
     width: 100%;
     color: #FFFFFF;
   }
 gr.blocks {
-  background-color: #750706;
+  background-color: #191628;
   width: 100%;
   color: #FFFFFF;
 }
@@ -18,7 +18,7 @@ h3 {
   font-family: verdana;
   font-size: 24px;
   border: 1px solid #FFFFFF;
-  border-radius: 10px;
+  border-radius: 30px;
 }
 
 p {
@@ -36,7 +36,7 @@ label {
 
 gr.Textbox {
   font-family: verdana;
-  background-color: #279700;
+  background-color: #e3ec11;
   color: #000000;
   font-weight: 700;
   font-size: 14px;
@@ -46,7 +46,7 @@ gr.Textbox {
 
 gr.Botton {
   font-family: verdana;
-  background-color: #279700;
+  background-color: #46ec11;
   color: #FFFFFF;
   font-weight: 700;
   font-size: 14px;
